@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.nanguasky.mvvmbuilder.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.nanguasky.mvvmbuilder.MyBundle
 
 class MyApplicationService {
 
